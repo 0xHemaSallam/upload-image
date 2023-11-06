@@ -1,4 +1,4 @@
-# File Upload in PHP: Share Your Joy 🌈
+# File Upload in PHP: Share Your Joy 🥳
 
 Welcome to this simple PHP project for file uploads! 📁
 
